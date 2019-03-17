@@ -1,16 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Intrested!
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Vidwath R Hebse. Following qualities describe my overall personality:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I am a honest and an humble person.
+- I believe strategy place a key role in problem solving (' A well defined problem is half solved')
+- I have an MTech degree in Computer Science.
+- I have worked in healthcare and pharma fields over 4 years in integrating Machine Learning (AI) to Healthcare sector.
+- I am fascinated towards sports and movies.
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
